@@ -15,5 +15,4 @@
 - astroelectronic@: https://astroelectronic.wordpress.com
 - Kicad: https://www.kicad.org/
 - LTSpice: https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html
-- NGspice: https://ngspice.sourceforge.io/
 - MAX15007A: https://www.maximintegrated.com/en/products/power/linear-regulators/MAX15007.html
